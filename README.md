@@ -1,3 +1,5 @@
+## This application has been moved to another instance. No new updates will be posted here. Go to: https://github.com/ByAldon/I-am-leaving-github for more information.
+
 # radio10m3u
 Dit bestand speelt de radio 10 stream af in je locale mediaplayer.
 
